@@ -5,7 +5,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 
-public class DailyTips extends AppCompatActivity {
+public class  DailyTips extends AppCompatActivity {
 
     RecyclerView recyclerview;
 
